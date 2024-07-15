@@ -4,7 +4,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadthilakk&label=Profile%20views&color=0e75b6&style=flat" alt="jagadthilakk" /> </p>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **JavaScript, React**
 
